@@ -12,6 +12,7 @@ dist/
 
 # Ignore .env files
 .env
+.DS_Store
 
 # Other files and folders
 .settings/
